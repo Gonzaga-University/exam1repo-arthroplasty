@@ -20,3 +20,4 @@ if __name__ == "__main__":
 
     print("Done with program")
     print("1st commit")
+    print("2nd commit")
